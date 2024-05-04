@@ -25,6 +25,9 @@ Dengan adanya CSS, Anda cukup menulis kode satu kali untuk sebuah elemen HTML un
 
 <p>gunakan ta div untk membuat warna teks di dalam teks, border untuk membuat box model</p>
 ![box model css](https://github.com/230102076/aqila_prakweb/assets/168813665/2377a247-cc03-43d3-a91b-e2f595e4ae52)
+![box model css](https://github.com/230102076/aqila_prakweb/assets/168813665/f7b3a648-0758-4ed8-9372-8325a0135555)
+
+
 
 <h2>JavaScript</h2>
 <p>JavaScript adalah bahasa pemrograman populer yang digunakan untuk membuat situs dengan konten website yang dinamis. Faktanya, ada lebih dari 67,7 persen developer yang menggunakan JavaScript, lho!
@@ -35,3 +38,6 @@ JavaScript sendiri sebenarnya biasanya dikolaborasikan dengan HTML dan CSS. Di m
 
 <p>Java script memiliki variabel var</p>
 ![js](https://github.com/230102076/aqila_prakweb/assets/168813665/aac891da-f1d5-4887-9b82-813b787faa01)
+![js](https://github.com/230102076/aqila_prakweb/assets/168813665/2eea5e03-48b7-4e84-b3ad-bdfe3ddcfa37)
+
+
