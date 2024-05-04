@@ -7,6 +7,8 @@
 
 <br>Ketika bekerja dengan bahasa markup ini, Anda menggunakan struktur kode sederhana (tag dan attribute) untuk mark up halaman website. </p>
 
+![html 1](https://github.com/230102076/aqila_prakweb/assets/168813665/c68ab306-522c-46de-bd5b-72455c6b2e41)
+
 <p>1. Gunakan tag html h1 untuk membuat heading atau judul, gunakan tag html p untuk membuat paragraf, gunakan tag html br untuk membuat jarak atau spasi, gunakan tag img untuk menntukan gambar yang akan dimasukkan, Tautan Html ditentukan dengan tag a </p>
 ![html 1](https://github.com/230102076/aqila_prakweb/assets/168813665/f1ec42b9-6739-418a-86de-dc1c539912e8)
 
@@ -21,5 +23,15 @@ Apabila hanya menggunakan HTML ketika membangun website dengan beberapa halaman,
 
 Dengan adanya CSS, Anda cukup menulis kode satu kali untuk sebuah elemen HTML untuk diterapkan ke semua halaman.</p>
 
+<p>gunakan ta div untk membuat warna teks di dalam teks, border untuk membuat box model</p>
 ![box model css](https://github.com/230102076/aqila_prakweb/assets/168813665/2377a247-cc03-43d3-a91b-e2f595e4ae52)
 
+<h2>JavaScript</h2>
+<p>JavaScript adalah bahasa pemrograman populer yang digunakan untuk membuat situs dengan konten website yang dinamis. Faktanya, ada lebih dari 67,7 persen developer yang menggunakan JavaScript, lho!
+
+Konten dinamis artinya konten dapat bergerak atau berubah di depan layar tanpa perlu mereload halaman. Misalnya saja, fitur slideshow foto, gambar animasi, pengisian poling, dan lainnya.  
+
+JavaScript sendiri sebenarnya biasanya dikolaborasikan dengan HTML dan CSS. Di mana belajar HTML adalah untuk membuat struktur website dan CSS adalah bahasa untuk merancang style halaman website. Lalu, JavaScript berperan menambahkan elemen interaktif untuk meningkatkan engagement pengguna. </p>
+
+<p>Java script memiliki variabel var</p>
+![js](https://github.com/230102076/aqila_prakweb/assets/168813665/aac891da-f1d5-4887-9b82-813b787faa01)
